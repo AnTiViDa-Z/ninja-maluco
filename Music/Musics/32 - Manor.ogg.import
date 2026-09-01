@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dpaqce1kpbamv"
+path="res://.godot/imported/32 - Manor.ogg-95f219ff16c7b52928b845fcd625c252.oggvorbisstr"
+
+[deps]
+
+source_file="res://Music/Musics/32 - Manor.ogg"
+dest_files=["res://.godot/imported/32 - Manor.ogg-95f219ff16c7b52928b845fcd625c252.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
