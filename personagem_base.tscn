@@ -1,7 +1,9 @@
-[gd_scene format=3 uid="uid://btnj8weuelfmb"]
+[gd_scene format=3 uid="uid://cdkow4x8pdrkx"]
 
-[ext_resource type="Script" uid="uid://b2g66t3fpqpnn" path="res://Actor/Caracter/personagem_base.gd" id="1_qhdoo"]
-[ext_resource type="Texture2D" uid="uid://cptrt2nw3lp1g" path="res://Actor/Caracter/EggBoy/SpriteSheet.png" id="1_tey4r"]
+[ext_resource type="Script" uid="uid://dvfb5jdvxxhlb" path="res://personagem_base.gd" id="1_7k7q1"]
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_7k7q1"]
+load_path = "res://.godot/imported/SpriteSheet.png-12cd2666d235ab6754a8db9222e6aa86.ctex"
 
 [sub_resource type="Animation" id="Animation_qhdoo"]
 length = 0.001
@@ -377,14 +379,14 @@ _data = {
 }
 
 [node name="Personagem_Base" type="CharacterBody2D" unique_id=1044996040 node_paths=PackedStringArray("_animator", "_textura")]
-script = ExtResource("1_qhdoo")
+script = ExtResource("1_7k7q1")
 _animator = NodePath("Animador")
 _textura = NodePath("Textura")
 _personagem_selecionado = 7
 _codigo_personagem = Array[String](["EggBoy", "Hunter", "MaskRacoon", "RobotCamouflage", "Cavegirl2", "Princess", "Woman", "SorcererBlack"])
 
 [node name="Textura" type="Sprite2D" parent="." unique_id=273201899]
-texture = ExtResource("1_tey4r")
+texture = SubResource("CompressedTexture2D_7k7q1")
 hframes = 4
 vframes = 7
 
@@ -392,5 +394,7 @@ vframes = 7
 
 [node name="Animador" type="AnimationPlayer" parent="." unique_id=2099534548]
 libraries/ = SubResource("AnimationLibrary_chyef")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=35792009]
 
 [connection signal="animation_finished" from="Animador" to="." method="_quando_animacao_terminar"]
