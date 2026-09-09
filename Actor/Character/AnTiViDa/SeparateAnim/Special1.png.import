@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://6i4hgenbc4hd"
-path="res://.godot/imported/Idle.png-84d18cc10d24c0d15b89ef7480f157ce.ctex"
+uid="uid://cntmksatxrtbn"
+path="res://.godot/imported/Special1.png-ccc89506e27fc1a0592f74609fe86cee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Actor/Character/Monk2/SeparateAnim/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-84d18cc10d24c0d15b89ef7480f157ce.ctex"]
+source_file="res://Actor/Character/AnTiViDa/SeparateAnim/Special1.png"
+dest_files=["res://.godot/imported/Special1.png-ccc89506e27fc1a0592f74609fe86cee.ctex"]
 
 [params]
 

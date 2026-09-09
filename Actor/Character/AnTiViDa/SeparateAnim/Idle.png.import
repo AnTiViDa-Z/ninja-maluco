@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dru7a65vimcsn"
-path="res://.godot/imported/Faceset.png-5bae555af6e7d06557a6b6a6f07f84dd.ctex"
+uid="uid://6i4hgenbc4hd"
+path="res://.godot/imported/Idle.png-bb6de4092196fdd8c02b24bf4eed00ca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Actor/Character/Monk2/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-5bae555af6e7d06557a6b6a6f07f84dd.ctex"]
+source_file="res://Actor/Character/AnTiViDa/SeparateAnim/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-bb6de4092196fdd8c02b24bf4eed00ca.ctex"]
 
 [params]
 

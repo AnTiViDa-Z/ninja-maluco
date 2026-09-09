@@ -1,9 +1,10 @@
 [gd_scene format=3 uid="uid://cdkow4x8pdrkx"]
 
 [ext_resource type="Script" uid="uid://dvfb5jdvxxhlb" path="res://personagem_base.gd" id="1_7k7q1"]
+[ext_resource type="Texture2D" uid="uid://bbg0t8vm6pt32" path="res://Actor/Character/AnTiViDa/SpriteSheet.png" id="2_ycxjn"]
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_7k7q1"]
-load_path = "res://.godot/imported/SpriteSheet.png-12cd2666d235ab6754a8db9222e6aa86.ctex"
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_oppjh"]
+size = Vector2(12, 5)
 
 [sub_resource type="Animation" id="Animation_qhdoo"]
 length = 0.001
@@ -382,15 +383,18 @@ _data = {
 script = ExtResource("1_7k7q1")
 _animator = NodePath("Animador")
 _textura = NodePath("Textura")
-_personagem_selecionado = 7
-_codigo_personagem = Array[String](["EggBoy", "Hunter", "MaskRacoon", "RobotCamouflage", "Cavegirl2", "Princess", "Woman", "SorcererBlack"])
+_personagem_selecionado = 8
+_codigo_personagem = Array[String](["EggBoy", "Hunter", "MaskRacoon", "RobotCamouflage", "Cavegirl2", "Princess", "Woman", "SorcererBlack", "AnTiViDa"])
 
 [node name="Textura" type="Sprite2D" parent="." unique_id=273201899]
-texture = SubResource("CompressedTexture2D_7k7q1")
+position = Vector2(0, -8)
+texture = ExtResource("2_ycxjn")
 hframes = 4
 vframes = 7
 
 [node name="Colisor" type="CollisionShape2D" parent="." unique_id=570535918]
+position = Vector2(0, -2)
+shape = SubResource("RectangleShape2D_oppjh")
 
 [node name="Animador" type="AnimationPlayer" parent="." unique_id=2099534548]
 libraries/ = SubResource("AnimationLibrary_chyef")

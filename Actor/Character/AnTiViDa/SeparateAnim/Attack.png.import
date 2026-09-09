@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bbg0t8vm6pt32"
-path="res://.godot/imported/SpriteSheet.png-9a0b87aff00253e276beba7a8c87dc00.ctex"
+uid="uid://baona7cuc6dua"
+path="res://.godot/imported/Attack.png-57735c64a2b46d899c3343a36ba06b6b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Actor/Character/Monk2/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-9a0b87aff00253e276beba7a8c87dc00.ctex"]
+source_file="res://Actor/Character/AnTiViDa/SeparateAnim/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-57735c64a2b46d899c3343a36ba06b6b.ctex"]
 
 [params]
 

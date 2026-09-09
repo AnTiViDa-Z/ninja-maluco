@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://owmp8mimi7ec"
-path="res://.godot/imported/Jump.png-9fe7da92d1bb4d4f1ffef9c69c2c14fa.ctex"
+uid="uid://dru7a65vimcsn"
+path="res://.godot/imported/Faceset.png-79bfa8c91c5054be55b88f5ea92774e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Actor/Character/Monk2/SeparateAnim/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-9fe7da92d1bb4d4f1ffef9c69c2c14fa.ctex"]
+source_file="res://Actor/Character/AnTiViDa/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-79bfa8c91c5054be55b88f5ea92774e0.ctex"]
 
 [params]
 

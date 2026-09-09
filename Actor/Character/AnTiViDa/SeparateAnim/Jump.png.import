@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://baona7cuc6dua"
-path="res://.godot/imported/Attack.png-8161409bd6ec0affd35bd59fb84da7ec.ctex"
+uid="uid://owmp8mimi7ec"
+path="res://.godot/imported/Jump.png-5ee9cff8cd432fa58ea6fe4b12d47ca6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Actor/Character/Monk2/SeparateAnim/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-8161409bd6ec0affd35bd59fb84da7ec.ctex"]
+source_file="res://Actor/Character/AnTiViDa/SeparateAnim/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-5ee9cff8cd432fa58ea6fe4b12d47ca6.ctex"]
 
 [params]
 

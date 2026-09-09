@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cntmksatxrtbn"
-path="res://.godot/imported/Special1.png-e430384e03beeb862106d25172b83460.ctex"
+uid="uid://cfsx6t3fn4y6q"
+path="res://.godot/imported/Item.png-6d7a0371eaa3f23daaf3d020b94281b0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Actor/Character/Monk2/SeparateAnim/Special1.png"
-dest_files=["res://.godot/imported/Special1.png-e430384e03beeb862106d25172b83460.ctex"]
+source_file="res://Actor/Character/AnTiViDa/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-6d7a0371eaa3f23daaf3d020b94281b0.ctex"]
 
 [params]
 

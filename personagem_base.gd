@@ -3,7 +3,7 @@ class_name PersonagemBase
 
 enum Personagens {
 	EggBoy = 0, Hunter = 1, MaskRacoon = 2,
-	RobotCamouflage = 3, Cavegirl2 = 4, Princess = 5, Woman = 6, SorcererBlack = 7,
+	RobotCamouflage = 3, Cavegirl2 = 4, Princess = 5, Woman = 6, SorcererBlack = 7, AnTiViDa = 8,
 }
 
 var _ataque_selecionado: String = ""

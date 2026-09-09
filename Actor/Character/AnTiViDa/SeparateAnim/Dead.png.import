@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckohr3nykplx8"
-path="res://.godot/imported/Dead.png-6df6613df852e8dfba4454324cbfca03.ctex"
+path="res://.godot/imported/Dead.png-3655befc6d44a22bcbd8d213b402fd36.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Actor/Character/Monk2/SeparateAnim/Dead.png"
-dest_files=["res://.godot/imported/Dead.png-6df6613df852e8dfba4454324cbfca03.ctex"]
+source_file="res://Actor/Character/AnTiViDa/SeparateAnim/Dead.png"
+dest_files=["res://.godot/imported/Dead.png-3655befc6d44a22bcbd8d213b402fd36.ctex"]
 
 [params]
 
